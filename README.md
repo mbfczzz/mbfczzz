@@ -30,6 +30,4 @@
 <img src="https://komarev.com/ghpvc/?username=mbfczzz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=mbfczzz" /> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbfczzz" /> </div>

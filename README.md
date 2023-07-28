@@ -32,6 +32,4 @@
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=mbfczzz" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mbfczzz&theme=xcode" /> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbfczzz" /> </div>

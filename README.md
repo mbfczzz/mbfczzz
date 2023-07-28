@@ -35,5 +35,3 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=mbfczzz&theme=xcode" /> </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbfczzz" /> </div>
-
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>

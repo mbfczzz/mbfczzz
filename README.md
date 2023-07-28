@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbfczzz)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbfczzz)
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mbfczzz)
-
+<img align='center'src="https://github-readme-stats.vercel.app/api?username=silence1018&show=reviews&show_icons=true&theme=mbfczzz"/> `
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

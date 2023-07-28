@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
 <img src="https://komarev.com/ghpvc/?username=mbfczzz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
- </div>
+</div>
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=mbfczzz" /> </div>
 
